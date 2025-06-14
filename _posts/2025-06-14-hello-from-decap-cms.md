@@ -1,6 +1,6 @@
 ---
 layout: post
-author: John
+author: john
 categories:
   - decapcms
 image: https://decapcms.org/img/og-image.jpg
