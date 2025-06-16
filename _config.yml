@@ -31,6 +31,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  sangram:
+    name: Sangram
+    display_name: Sangram    
+    avatar: 'assets/images/avatar.png'
+    gravatar: 
+    email: 
+    web: https://github.com/sangramrath/mediumish-jekyll-decapcms/
+    twitter: 
+    description: " "
 
 # Plugins
 plugins:
